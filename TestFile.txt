@@ -1,1 +1,1 @@
-myfileinmaster
+myfileinmaster->dev->master
